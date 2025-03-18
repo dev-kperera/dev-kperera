@@ -57,7 +57,3 @@ I currently lead technical teams at Northwell Health, where I design, develop, a
 - LinkedIn: [www.linkedin.com/in/architect-kushan-perera](https://www.linkedin.com/in/architect-kushan-perera)
 - Email: me@kushanperera.com
 - Book an appointment: [https://topmate.io/kushan_perera](https://topmate.io/kushan_perera)
-
----
-
-*"I don't solve problems, I architect solutions that make problems obsolete."*
